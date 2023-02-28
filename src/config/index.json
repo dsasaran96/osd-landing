@@ -1,0 +1,161 @@
+{
+  "company": {
+    "name": "Organizatia Studentilor in Drept",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Top",
+      "href": "top"
+    },
+    {
+      "name": "Proiecte",
+      "href": "proiecte"
+    },
+
+    {
+      "name": "Despre Noi",
+      "href": "about"
+    },
+    {
+      "name": "Contact",
+      "href": "contact"
+    }
+  ],
+  "callToAction": {
+    "text": "Contact/Whatever",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Organizatia Studentilor",
+    "subtitle": "in Drept",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in ipsum quam. Integer egestas vulputate accumsan. Cras quis nunc enim. Integer tellus urna, auctor sit amet finibus commodo, accumsan id nulla. Donec eu pretium sapien. In vehicula aliquam ex id semper. Nullam dictum vitae ex nec aliquet. Vestibulum gravida scelerisque finibus. Integer in volutpat urna, ut elementum nibh. Sed lacus orci, porttitor condimentum mauris et, imperdiet fermentum ligula. Nullam gravida magna eu orci hendrerit, vel dignissim neque efficitur. Etiam ut accumsan ipsum. Vivamus fermentum ex urna. Quisque ultricies felis quis augue fermentum feugiat. Nam tempus elementum pharetra. Pellentesque posuere dui vel ultrices porttitor.",
+    "img": "/assets/images/team.jpg",
+    "primaryAction": {
+      "text": "Contact/Whatever",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:dragos.sasaran@gmail.com?subject=OSD"
+    }
+  },
+  "proiecte": {
+    "title": "Proiecte",
+    "items": [
+      {
+        "title": "Animus Donandi",
+        "description": "Seara de chitara bla bla descriere mai lunga pentru SEO, Lorem ipsum.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Alt Proiect",
+        "description": "Aici alta descriere lunga pentru SEO",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Despre Noi",
+    "subtitle": "Ceva subtitlu",
+    "description": "Descriere organizatie sau birou",
+    "items": [
+      {
+        "name": "Presedeinte",
+        "description": "Horea Dobai",
+        "icon": "/assets/images/dobai.jpeg",
+        "gridArea": "a"
+      },
+      {
+        "name": "Teodora Curtean",
+        "description": "Director General",
+        "icon": "/assets/images/teo.jpg"
+      },
+      {
+        "name": "Secretar General",
+        "description": "Malina Robe",
+        "icon": "/assets/images/malina.jpg"
+      },
+      {
+        "name": "Senator",
+        "description": "Paul Iacob",
+        "icon": "/assets/images/paul.jpeg"
+      },
+      {
+        "name": "Director Dep. Resurse Umane",
+        "description": "Radu-Andrei Jipa Dragan",
+        "icon": "/assets/images/jipa.jpg"
+      },
+      {
+        "name": "Director Dep. Academic",
+        "description": "Miruna Rista",
+        "icon": "/assets/images/miruna.jpg"
+      },
+      {
+        "name": "Director Dep. Financiar",
+        "description": "Andrada Caileanu",
+        "icon": "/assets/images/andrada.jpg"
+      },
+      {
+        "name": "Director Dep. Relatii Externe",
+        "description": "Ioana Draghis",
+        "icon": "/assets/images/ioana.jpg"
+      },
+      {
+        "name": "Director Dep. Marketing",
+        "description": "Iosif Soaita",
+        "icon": "/assets/images/iosif.jpg"
+      },
+      {
+        "name": "Cancelar CSFD",
+        "description": "Vlad Giurgea",
+        "icon": "/assets/images/vlad.jpeg"
+      },
+      {
+        "name": "Reprezentant Master",
+        "description": "Eusebiu Lupu",
+        "icon": "/assets/images/eusebiu.jpeg"
+      },
+      {
+        "name": "Reprezentant ONG",
+        "description": "Emanuela Badelita",
+        "icon": "/assets/images/ema.jpeg"
+      },
+      {
+        "name": "Cenzor",
+        "description": "Ilina Berar",
+        "icon": "/assets/images/ilina.jpeg",
+        "gridArea": "a"
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/dsasaran96",
+      "twitter": "#",
+      "linkedin": "#"
+    }
+  }
+}
