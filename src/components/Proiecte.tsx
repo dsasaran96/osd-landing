@@ -34,7 +34,7 @@ const Proiecte = () => {
           </div>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
-              className="h-6/6"
+              className="h-6/6 rounded-xl"
               src={firstItem?.img}
               alt={firstItem?.title}
             />

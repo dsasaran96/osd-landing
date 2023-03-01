@@ -30,14 +30,14 @@
     "title": "Organizatia Studentilor",
     "subtitle": "in Drept",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in ipsum quam. Integer egestas vulputate accumsan. Cras quis nunc enim. Integer tellus urna, auctor sit amet finibus commodo, accumsan id nulla. Donec eu pretium sapien. In vehicula aliquam ex id semper. Nullam dictum vitae ex nec aliquet. Vestibulum gravida scelerisque finibus. Integer in volutpat urna, ut elementum nibh. Sed lacus orci, porttitor condimentum mauris et, imperdiet fermentum ligula. Nullam gravida magna eu orci hendrerit, vel dignissim neque efficitur. Etiam ut accumsan ipsum. Vivamus fermentum ex urna. Quisque ultricies felis quis augue fermentum feugiat. Nam tempus elementum pharetra. Pellentesque posuere dui vel ultrices porttitor.",
-    "img": "/assets/images/team.jpg",
+    "img": "/assets/images/poza grup.jpg",
     "primaryAction": {
       "text": "Contact/Whatever",
       "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:dragos.sasaran@gmail.com?subject=OSD"
+      "href": "mailto:osdubbcluj@gmail.com?subject=OSD"
     }
   },
   "proiecte": {
@@ -46,12 +46,12 @@
       {
         "title": "Animus Donandi",
         "description": "Seara de chitara bla bla descriere mai lunga pentru SEO, Lorem ipsum.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/animus.jpg"
       },
       {
-        "title": "Alt Proiect",
+        "title": "Balul Bobocilor",
         "description": "Aici alta descriere lunga pentru SEO",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/bal.jpg"
       }
     ]
   },
@@ -62,8 +62,8 @@
     "items": [
       {
         "name": "Presedeinte",
-        "description": "Horea Dobai",
-        "icon": "/assets/images/dobai.jpeg",
+        "description": "Rista Miruna",
+        "icon": "/assets/images/Rista Miruna-PREȘEDINTE.jpg",
         "gridArea": "a"
       },
       {
