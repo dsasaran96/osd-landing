@@ -5,6 +5,8 @@ import { useEffect, useState } from "react";
 import TagManager from "react-gtm-module";
 import "styles/style.scss";
 
+import { AnimatePresence } from "framer-motion";
+
 const App = ({ Component, pageProps }) => {
   // default theme setup
 
@@ -34,7 +36,7 @@ const App = ({ Component, pageProps }) => {
   }, []);
 
   return (
-    <>
+    <AnimatePresence mode="wait">
       <Head>
         {/* google font css */}
         <link
@@ -54,7 +56,7 @@ const App = ({ Component, pageProps }) => {
         />
       </Head>
       <Component {...pageProps} />
-    </>
+    </AnimatePresence>
   );
 };
 

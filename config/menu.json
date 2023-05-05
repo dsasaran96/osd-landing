@@ -5,12 +5,12 @@
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blogs"
+      "name": "Evenimente",
+      "url": "/events"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Despre Noi",
+      "url": "/about"
     },
     {
       "name": "Contact",
@@ -22,36 +22,6 @@
     }
   ],
   "footer": [
-    {
-      "name": "Company",
-      "menu": [
-        {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
-        }
-      ]
-    },
     {
       "name": "Support",
       "menu": [
@@ -66,6 +36,36 @@
         {
           "text": "Terms & Conditions",
           "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "menu": [
+        {
+          "text": "",
+          "url": ""
+        },
+        {
+          "text": "",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "menu": [
+        {
+          "text": "",
+          "url": "#"
+        },
+        {
+          "text": "",
+          "url": "#"
+        },
+        {
+          "text": "",
+          "url": "/pricing"
         }
       ]
     }

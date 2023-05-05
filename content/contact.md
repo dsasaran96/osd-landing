@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
+title: "Contacteaza-ne!"
 layout: "contact"
 draft: false
-info: 
-  title: Why you should contact us!
+info:
+  title: Scrie-ne!
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-  contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+  contacts:
+    - "phone: +40 746 342 303"
+    - "Mail: [osd@ubb.ro](mailto:osd@ubb.ro)"
+    - "Address: Str. Avram Iancu nr. 15, Cluj-Napoca, Cluj"
 ---
