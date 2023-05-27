@@ -4,9 +4,9 @@ layout: "contact"
 draft: false
 info:
   title: Scrie-ne!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  description: "Sau ne poți găsi și la:"
   contacts:
-    - "phone: +40 746 342 303"
+    - "Telefon: +40 746 342 303"
     - "Mail: [osd@ubb.ro](mailto:osd@ubb.ro)"
-    - "Address: Str. Avram Iancu nr. 15, Cluj-Napoca, Cluj"
+    - "Adresă: Str. Avram Iancu nr. 11, sala 108, Cluj-Napoca, Cluj"
 ---

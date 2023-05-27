@@ -2,7 +2,7 @@
   "site": {
     "title": "Organizatia Studentilor in Drept",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
     "logo_width": "48",
     "logo_height": "48",
@@ -24,13 +24,13 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "Str. Avram Iancu, nr. 11, sala 118 Cluj-Napoca",
     "copyright": "Designed and Developed By [SDC](#)"
   },
 
   "metadata": {
     "meta_author": "Dragos Sasaran",
     "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description": "Organizatia Studentilor in Drept"
   }
 }

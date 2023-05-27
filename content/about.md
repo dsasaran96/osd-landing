@@ -44,7 +44,7 @@ plans:
 
 call_to_action:
   title: Ai nevoie de mai multe informatii?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: Contacteaza-ne, și te vom ajuta cât de repede putem!
   image: "/images/cta.svg"
   button:
     enable: true

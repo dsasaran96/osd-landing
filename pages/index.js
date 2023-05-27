@@ -57,8 +57,9 @@ const Home = ({ frontmatter }) => {
           <div className="container">
             <div className="text-center">
               <h2>{markdownify(feature.title)}</h2>
+              <p>{markdownify(feature.content)}</p>
             </div>
-            <div className="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-2">
               {feature.features.map((item, i) => (
                 <div
                   className="feature-card rounded-xl bg-white p-5 pb-8 text-center"
@@ -125,6 +126,8 @@ const Home = ({ frontmatter }) => {
                       {service?.title}
                     </h2>
                     <p className="mb-2 mt-4">{service?.content}</p>
+                    <p className="mb-2 mt-4">{service?.content2}</p>
+                    <p className="mb-2 mt-4">{service?.content3}</p>
                     {service.button.enable && (
                       <Link
                         href={service?.button.link}

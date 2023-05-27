@@ -10,45 +10,75 @@ function About({ data }) {
 
   const teamMembers = [
     {
-      name: "John Doe",
-      position: "Presedinte",
-      image: "/images/jipa.jpg",
+      name: "Robe Mălina Elena",
+      position: "Președinte",
+      image: "/images/birou-conducere/Robe Mălina Elena-DG.jpg",
       row: 1,
     },
     {
-      name: "Jane Smith",
-      position: "Vicepresedinte",
+      name: "Jipa",
+      position: "Vicepreședinte",
       image: "/images/jipa.jpg",
       row: 2,
     },
     {
-      name: "Sam Brown",
+      name: "Păștinaru Iulia",
       position: "Secretar General",
-      image: "/images/jipa.jpg",
+      image: "/images/birou-conducere/Păștinaru Iulia-SG.jpg",
       row: 2,
     },
     {
-      name: "Sara White",
-      position: "Director MKT",
-      image: "/images/jipa.jpg",
+      name: "Neagu Maria Mihaela",
+      position: "Director Marketing",
+      image: "/images/birou-conducere/Neagu Maria Mihaela-MKT.jpg",
       row: 3,
     },
     {
-      name: "Tom Black",
-      position: "Director RU",
-      image: "/images/jipa.jpg",
+      name: "Dobre Cătălina",
+      position: "Director Resurse Umane",
+      image: "/images/birou-conducere/Dobre Cătălina-HR.jpg",
       row: 3,
     },
     {
-      name: "Tom Black",
+      name: "Ciumărnean Radu",
       position: "Director Financiar",
-      image: "/images/jipa.jpg",
+      image: "/images/birou-conducere/Ciumărnean Radu-FR.jpg",
       row: 3,
     },
     {
-      name: "Tom Black",
-      position: "Director Manele",
-      image: "/images/jipa.jpg",
+      name: "Miclea Mihai",
+      position: "Director Relații Externe",
+      image: "/images/birou-conducere/Miclea Mihai-RE.jpg",
+      row: 3,
+    },
+    {
+      name: "Catalano Andreea Maria",
+      position: "Director Activități Academice",
+      image: "/images/birou-conducere/Catalano Andreea Maria-AC.jpg",
+      row: 3,
+    },
+    {
+      name: "Nicorici Iulia",
+      position: "Student Senator",
+      image: "/images/birou-conducere/Nicorici Iulia-STUDENT SENATOR.jpg",
+      row: 3,
+    },
+    {
+      name: "Corcoz Bianca",
+      position: "Student Senator",
+      image: "/images/birou-conducere/Corcoz Bianca-STUDENT CONSILIER.jpg",
+      row: 3,
+    },
+    {
+      name: "Dobai Horea",
+      position: "Student Senator",
+      image: "/images/birou-conducere/Dobai Horea-STUDENT CONSILIER.jpg",
+      row: 3,
+    },
+    {
+      name: "Iacob Paul",
+      position: "Student Senator",
+      image: "/images/birou-conducere/Iacob Paul-STUDENT CONSILIER.jpg",
       row: 3,
     },
   ];
@@ -68,7 +98,7 @@ function About({ data }) {
         {row.map((member) => (
           <div
             key={member.name}
-            className="w-full p-2 sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5"
+            className="flex w-full flex-col items-center p-2 sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5"
           >
             <div className="h-full rounded bg-white p-4 shadow-md">
               <div className="mb-4">
@@ -77,7 +107,7 @@ function About({ data }) {
                   alt={`${member.name}'s profile image`}
                   width={150}
                   height={150}
-                  className="rounded-full"
+                  className="h-[150px] w-[150px] rounded-full"
                 />
               </div>
               <h3 className="mb-2 text-lg font-semibold">{member.name}</h3>
