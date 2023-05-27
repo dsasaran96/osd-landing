@@ -70,7 +70,7 @@ services:
     content: "Proiect destinat anului IV, țintit în mod special spre studenții care, pe lângă munca academică, și-au ocupat timpul liber și cu activități de voluntariat, reprezentare studențească sau de dezvoltare a societății și nu numai, are ca scop premierea acestora și totodată motivarea noilor generații să se implice în activități de voluntariat sau de reprezentare."
     content2: Premiile OSD&CSFD îș propun să vină cu o răsplată palpabilă către studenți, un bonus pe lângă experiența acumulată și amintirile create prin implicarea civică pe perioada facultății.
     images:
-      - "/images/Premiile OSD csfd.jpg"
+      - "/images/Premiile.JPG"
     button:
       enable: false
       label: Check it out
@@ -79,7 +79,7 @@ services:
   - title: "How to get away with law"
     content: "După popularul model “quiz night”, proiectul nostru ajuns abia la cea de-a doua ediție, are ca scop testarea cunoștințelor juridice într-un cadru informal, aducând totuși un plus de motivație și competitivitate cu ajutorul premiilor puse în joc și a probelor gândite să scoată participanții din monotonie, probe din care, pot chiar dobândi și cunoștințe noi."
     images:
-      - "/images/Quiz how to get away with law.jpg"
+      - "/images/get-away.jpg"
     button:
       enable: false
       label: Check it out
