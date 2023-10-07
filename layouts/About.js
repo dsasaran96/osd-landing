@@ -101,13 +101,12 @@ function About({ data }) {
             className="flex w-full flex-col items-center p-2 sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5"
           >
             <div className="h-full rounded bg-white p-4 shadow-md">
-              <div className="mb-4">
+              <div className="relative mb-4 h-[150px] w-[150px] rounded-full">
                 <Image
                   src={member.image}
                   alt={`${member.name}'s profile image`}
-                  width={150}
-                  height={150}
-                  className="h-[150px] w-[150px] rounded-full"
+                  fill
+                  className="rounded-full"
                 />
               </div>
               <h3 className="mb-2 text-lg font-semibold">{member.name}</h3>

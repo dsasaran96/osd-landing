@@ -6,7 +6,6 @@ info:
   title: Scrie-ne!
   description: "Sau ne poți găsi și la:"
   contacts:
-    - "Telefon: +40 746 342 303"
     - "Mail: [osd@ubb.ro](mailto:osd@ubb.ro)"
     - "Adresă: Str. Avram Iancu nr. 11, sala 108, Cluj-Napoca, Cluj"
 ---
